@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+.env
+
+.DS_Store
+._*
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+
+# Ignore large data
+Videos/
+docs/*.pdf
